@@ -1,0 +1,16 @@
+# Database / Credentials (Saves sensitive keys)
+config.php
+
+# Package manager folders
+node_modules/
+package-lock.json
+
+# IDE / System files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compressed archives / backups
+*.zip
+*.rar
+*.7z
