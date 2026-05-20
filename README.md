@@ -141,4 +141,5 @@ Open your web browser and navigate to the application:
 ## 👩💻 Author
 **Ashini Sudusingha**  
 *Full-Stack Software Engineer & Designer*  
+*This project was completed when I was in first year(2024)*
 *Passionate about creating modern, beautifully aesthetic, and highly functional web solutions.*
